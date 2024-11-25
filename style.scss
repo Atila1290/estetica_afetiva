@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+
+@import "partials/header";
+@import "partials/layout";
+
+body{
+    font-family: 'Dancing Script', sans-serif;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: #EBE3DB;
+}
+
+a{
+    font-family: 'Dancing Script', sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+img{
+    width: 100%;
+}
+
