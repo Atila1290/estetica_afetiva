@@ -1,5 +1,5 @@
-## Studio Bela Asllan 💋👀
-Site feito para um estudio de micropigmentação de sombrancelhas e designer labial. 
+## Estética Afetiva💋👀
+Site feito para uma clinica de estetica 
 
 
 ## Tecnologias Usadas 💻
